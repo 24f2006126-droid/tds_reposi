@@ -27,6 +27,7 @@ I knew these things as well, apart from the checklist ...
 
 --- Feedback (Suggestions for the TDS Team) ---
 This is my feedback ...
+There are many things in TDS .Many complex things.If it could be easier to learn.
 ---
 
 ---
