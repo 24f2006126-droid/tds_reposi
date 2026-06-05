@@ -1,0 +1,33 @@
+---
+---
+
+--- Before Day-1 ---
+I already knew Python3,something about SQL and something about JavaScripr,Html.
+--- 
+
+## Day-1 Checklist
+
+- [ ] I can open a Linux terminal and recognize the shell prompt (`user@machine:~$`)
+- [ ] I can run `python --version`, `git --version`, and `uv --version` without errors
+- [ ] I can open VS Code connected to WSL/Linux using `code .`
+- [ ] I know what `~` means and can navigate to my home directory using `cd ~`
+- [ ] I can create folders and files using `mkdir` and `touch`, and list them with `ls`
+- [ ] I know the difference between `.xyz`, `./xyz`, and `../xyz`
+- [ ] I know that in Linux, everything is a file
+- [ ] I can navigate to the C and D drives within WSL
+- [ ] I understand the difference between `>` (overwrite) and `>>` (append)
+- [ ] I have a GitHub account and have created the `tds-bootcamp` repository
+
+--- After Day-1 ---
+I knew these things as well, apart from the checklist ...
+1)Astral builds many of its Python tools using Rust.
+2)Rust is a systems programming language
+3)uv combines many of these tasks into one tool and performs them much faster.(pyenv,pip,poetry etc.)
+---
+
+--- Feedback (Suggestions for the TDS Team) ---
+This is my feedback ...
+---
+
+---
+---
