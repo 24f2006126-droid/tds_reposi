@@ -29,6 +29,8 @@ Popular no-code API tools=> Postman,Insomnia.API gives DATA, not a webpage.
 7)HTTP status codes tell you what happened when you made an API request. 401 — Unauthorized(login is invalid/Wrong API key)
 403 — Forbidden(“I know who you are, but you’re not allowed”), 404 — Not Found(“The resource doesn’t exist”/“I can’t find what you asked for.”), 
 500 — Internal Server Error(“I tried, but my code crashed.”)
+8)GET request with query parameters-->curl "https://httpbin.org/get?name=john&age=25"
+9)POST (send data)-->curl -X POST https://httpbin.org/post
 
 ---
 
