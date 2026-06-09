@@ -28,6 +28,24 @@ Commit = printing and saving a final copy(git commit -m "your message")-->change
 3)git status-->What’s going on right now(Which files are modified,Which are staged)
 4)git diff-->What exactly changed(Line-by-line differences between.Working tree vs staging area)
 5)git log — History of commits(List of commits,Author name & email)
+6)git clone https://github.com/username/repo-name -->connect my local WSL folder to GitHub repo.
+7)git add filename -->Add files you want to include in the commit
+8)git push -->Send my commit to GitHub.
+9)git add .  => . = current directory
+10)Full workflow in order:
+git add .
+git commit -m "your message"
+git push
+
+11) origin = where GitHub repo is.
+main = which branch inside your project
+12)Setting up SSH lets you push to GitHub without typing your password every time.
+
+13)Tag = label for a specific commit (like a release point)
+Annotated tag = tag with message + metadata
+Push = send that release marker to GitHub
+14)git tag -a v0.1.0 -m "first release" (Create a tag)
+15)git push origin v0.1.0 (Send tag to GitHub).Suppose You finish your app and want to mark it as version 0.1
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
