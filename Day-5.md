@@ -20,6 +20,14 @@ I already knew .same as before
 
 --- After Day-5 ---
 I learned these things ...
+1)Working Tree  →  Staging Area  →  Commit (Repository)
+   (edit)         (git add)          (git commit)  
+2)Working tree = writing a document ,
+Staging = selecting pages to print(pre-commit checkpoint.like /git add filename/),
+Commit = printing and saving a final copy(git commit -m "your message")-->changes are permanently recorded in Git history.
+3)git status-->What’s going on right now(Which files are modified,Which are staged)
+4)git diff-->What exactly changed(Line-by-line differences between.Working tree vs staging area)
+5)git log — History of commits(List of commits,Author name & email)
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
